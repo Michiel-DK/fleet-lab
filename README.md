@@ -1,4 +1,4 @@
-# warehouse-rl
+# fleet-lab
 
 A record of experiments on robot-fleet stall analysis, with every number tied to a results file in this tree and the negatives left in. It started as a reinforcement-learning question (can a learned policy beat the simulator's heuristic at recovering stuck robots, and at task assignment) and turned into a diagnostic tool measured on a simulator and on one public real-robot log.
 
